@@ -152,7 +152,6 @@ class Enemy
     cout<<"Umbra's Health: "<<health<<endl;
     cout<<"Umbra's normal hit attack power is between "<<max_damage<<" and "<<min_damage<<endl;
     cout<<"Umbra's's critical hit Attack Power: "<<umbra_critical_hit<<endl;
-    cout<<"Umbra's's critical hit Attack Power: "<<umbra_critical_hit<<endl;
     cout<<"\n<-------------------------------------------------------------->"<<endl;
 
   }
